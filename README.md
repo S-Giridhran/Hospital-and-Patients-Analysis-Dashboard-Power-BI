@@ -221,7 +221,3 @@ Power BI | Data Analytics | Business Intelligence Enthusiast
 This project demonstrates the practical application of Power BI in healthcare analytics by transforming raw hospital data into meaningful insights. The dashboard enables efficient monitoring of operational, financial, and patient-related performance indicators, supporting data-driven healthcare management.
 
 ---
-
-
-nu save pannina README semma professional-aa theriyum.
-
