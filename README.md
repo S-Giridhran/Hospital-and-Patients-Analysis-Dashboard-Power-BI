@@ -192,17 +192,17 @@ Total Procedures
 
 # 📷 Dashboard Preview
 
-### Executive Overview
+## Executive Overview
 
-<img width="100%" alt="Executive Overview" src="images/Executive Overview Page_1.png">
+![Executive Overview](Executive%20Overview%20Page_1.png)
 
-### Financial Analysis
+## Financial Analysis
 
-<img width="100%" alt="Financial Analysis" src="images/Financial Aanalysis Page_2.png">
+![Financial Analysis](Financial%20Analysis%20Page_2.png)
 
-### Risk Analysis
+## Risk Analysis
 
-<img width="100%" alt="Risk Analysis" src="images/Risk Analysis Page_3.png">
+![Risk Analysis](Risk%20Analysis%20Page_3.png)
 
 ---
 
@@ -222,15 +222,6 @@ This project demonstrates the practical application of Power BI in healthcare an
 
 ---
 
-### GitHub Repository Description (Short)
-
-> Interactive Power BI dashboard for hospital analytics, featuring patient insights, financial performance, treatment cost analysis, recovery monitoring, readmission tracking, and patient satisfaction evaluation. 🚑📊
-
-🔥 Pro tip da: GitHub la screenshots upload panni `images` folder create pannu. Athula:
-
-* `executive-overview.png`
-* `financial-analysis.png`
-* `risk-analysis.png`
 
 nu save pannina README semma professional-aa theriyum.
 
